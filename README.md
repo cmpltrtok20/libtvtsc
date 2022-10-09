@@ -161,7 +161,7 @@ It is the equivalent code of tvts/examples/x100\_fake\_demo\_simple.py.
 
 It is the equivalent code of tvts/examples/x200\_fake\_demo\_samulating\_practice.py.
 
-Note: The user could use x100\_fake\_demo\_simple.c and tvts/examples/x100\_fake\_demo\_simple.py in [TVTS](https://github.com/cmpltrtok20/tvts) interchangeably with the same TVTS name, because they both do not save/load weights, but she could not do it for x200\_fake\_demo\_samulating\_practice.c and tvts/examples/x200\_fake\_demo\_samulating\_practice.py in [TVTS](https://github.com/cmpltrtok20/tvts), i.e. the user should use 2 different TVTS name for running x200\_fake_demo\_samulating\_practice.c and tvts/examples/x200\_fake\_demo\_samulating\_practice.py.
+Note: The user could use x100\_fake\_demo\_simple.c and [tvts/examples/x100\_fake\_demo\_simple.py](https://github.com/cmpltrtok20/tvts/blob/master/examples/x100_fake_demo_simple.py) in [TVTS](https://github.com/cmpltrtok20/tvts) interchangeably with the same TVTS name, because they both do not save/load weights, but she could not do it for x200\_fake\_demo\_samulating\_practice.c and [tvts/examples/x200\_fake\_demo\_samulating\_practice.py](https://github.com/cmpltrtok20/tvts/blob/master/examples/x200_fake_demo_samulating_practice.py) in [TVTS](https://github.com/cmpltrtok20/tvts), i.e. the user should use 2 different TVTS name for running x200\_fake_demo\_samulating\_practice.c and tvts/examples/x200\_fake\_demo\_samulating\_practice.py.
 
 # About the author
 
